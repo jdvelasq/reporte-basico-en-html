@@ -34,7 +34,7 @@
 Ejecute el comando: 
 
 ```bash
-python3 apps/dashboard/report.py
+$ python3 apps/dashboard/report.py
 
 ```
 
